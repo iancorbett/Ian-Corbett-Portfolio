@@ -1,0 +1,25 @@
+#background {
+    background: linear-gradient(45deg, rgb(169, 154, 154), rgb(128, 105, 105), rgb(68, 68, 93));
+}
+
+path {
+    fill: transparent;
+}
+
+svg {
+    
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -50px;
+    
+}
+
+text {
+    fill: gold;
+}
+
+.project-1 {
+    border-radius: 5px;
+    height: 100px;
+    width: 100px;
+}
