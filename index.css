@@ -186,4 +186,75 @@ a {
     gap: 10px;
 }
 
-   
+ /* Adding media queries to make everything resize better */
+
+@media screen and (max-width: 1800px) {
+    .all-projects {
+        font-size: 40px;
+    }
+
+    .main-project {
+        font-size: 80px;
+    }
+}
+
+@media  screen and (max-width: 1600px) {
+    a {
+        font-size: 24px
+    }
+}
+
+@media  screen and (max-width: 1350px) {
+    a {
+        font-size: 20px
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .all-projects {
+        font-size: 30px;
+    }
+
+    a {
+        font-size: 18px;
+    }
+
+    #about-me {
+        margin-top: 50px;
+    }    
+
+    .github-link {
+        margin-top: 150px;
+        float: left;
+        margin-left: 10%;
+    }
+
+    .newest-project {
+        float: left;
+        
+    }
+
+    #about-me {
+        margin-top: 275px;
+    }
+}
+
+
+@media  screen and (max-width: 1150px) {
+    a {
+        font-size: 16px;
+    }
+}
+
+    
+
+@media screen and (max-width: 1100px) {
+    
+}
+
+@media screen and (max-width: 1000px) {
+    .all-projects {
+        font-size: 20px;
+        padding-bottom: 5px;
+    }
+}  
