@@ -16,13 +16,11 @@ In this project, I made sure that all the links were working, and I made many ch
 
 The website is quite simple. There is a header bar that contains links to all 6 of the additional projects that are currently yet to come. There is also a link the my github, my newest project, as well as biographical information and contact information.
 
-CREDITS: In this project I have borrowed various images from the web. Here are the links for those images: [
-](https://stock.adobe.com/)
+CREDITS: In this project I have borrowed various images from the web. Here are the links for those images: https://stock.adobe.com
 
-[
-](https://www.istockphoto.com/)
 
-Link to deployed project: [
-](https://iancorbett.github.io/Ian-Corbett-Portfolio/)
+https://www.istockphoto.com
+
+Link to deployed project: https://iancorbett.github.io/Ian-Corbett-Portfolio
 
 Thank you very much for reading!
