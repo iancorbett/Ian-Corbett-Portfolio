@@ -6,7 +6,9 @@ This project was made as practice for setting up a website without any starter c
 
 Throughout building this, there have been many bugs that have had to be dealt with. Most of these occured when moving my code from VSCode to Github. Therefore there are a lot of commits in this repo, many of which may have been slightly unnecessary. I have had trouble getting my html and css to actually show up when I visit the deployed site. Additionally, sometimes when i upload to github, my deployed website only shows my readme page. This has taught me that I need to spend more time familiarizing myself with Github so that my uploads go more smoothly.
 
-Screenshot: 
+Screenshot: ![Screenshot 2024-07-13 at 7 49 11 PM](https://github.com/user-attachments/assets/d71cb8f8-e1cf-4f19-b87b-d86881474212)
+![Screenshot 2024-07-13 at 7 49 25 PM](https://github.com/user-attachments/assets/eee30e1c-1e63-497a-9179-94ad23eae867)
+![Screenshot 2024-07-13 at 7 49 31 PM](https://github.com/user-attachments/assets/ac1abfff-96c5-4532-9277-dfe027c2f8f2)
 
 This whole project was created using just HTML and CSS. In future websites that I will build, javascript will be included as well, but this site doesnt need to be super interactive, so html and css suffice. 
 
@@ -14,8 +16,13 @@ In this project, I made sure that all the links were working, and I made many ch
 
 The website is quite simple. There is a header bar that contains links to all 6 of the additional projects that are currently yet to come. There is also a link the my github, my newest project, as well as biographical information and contact information.
 
-CREDITS: In this project I have borrowed various images from the web. Here are the links for those images:
+CREDITS: In this project I have borrowed various images from the web. Here are the links for those images: [
+](https://stock.adobe.com/)
 
-Link to deployed project: [](https://iancorbett.github.io/Ian-Corbett-Portfolio/)
+[
+](https://www.istockphoto.com/)
+
+Link to deployed project: [
+](https://iancorbett.github.io/Ian-Corbett-Portfolio/)
 
 Thank you very much for reading!
